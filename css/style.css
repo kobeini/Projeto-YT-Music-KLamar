@@ -1,7 +1,7 @@
 html {
     scroll-behavior: smooth;
+    scrollbar-color: #aaa #000;
 }
-
 body {
     background-color: #000;
     color: #ddd;
